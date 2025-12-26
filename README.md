@@ -22,25 +22,25 @@ Full-Stack Engineer (MERN) • Generative AI Developer • Product-Focused Build
 
 ## 🧠 Professional Summary
 
-Final-year **Computer Science Engineering** student and **Full-Stack Developer** with hands-on experience building **production-grade MERN and Next.js applications** and **AI-powered platforms**.
+I am a **Computer Science Engineering graduate** and **Full-Stack Developer** with hands-on experience building **production-grade MERN and Next.js applications** along with **AI-powered platforms**.
 
-I specialize in:
-- Scalable full-stack architectures
-- Clean, modern UI/UX with strong engineering discipline
+My expertise lies in:
+- Designing scalable full-stack architectures
+- Building clean, high-performance UI/UX
 - Integrating **Generative AI (Gemini, GPT)** into real-world products
-- Automating workflows and reducing manual effort using AI
+- Automating workflows and reducing manual effort using AI-driven systems
 
-I enjoy transforming complex ideas into **practical, high-impact software products**.
+I focus on writing **maintainable, scalable, and impact-driven software**.
 
 ---
 
 ## 🚀 Current Focus
 
 - 🔭 Building AI-first web platforms (Resume parsing, job matching, document automation)
-- 🤖 Exploring advanced **LLM workflows** and semantic AI systems
-- 🧩 Designing scalable frontend architectures with **Next.js App Router**
-- ⚙️ Improving backend performance and API reliability
-- 📚 Strengthening DSA, system design, and real-world problem solving
+- 🤖 Working with **LLMs, semantic search, and AI-assisted workflows**
+- 🧩 Architecting scalable frontend systems using **Next.js App Router**
+- ⚙️ Improving backend performance, API reliability, and data modeling
+- 📚 Strengthening system design and real-world engineering skills
 
 ---
 
@@ -50,8 +50,8 @@ I enjoy transforming complex ideas into **practical, high-impact software produc
 **AI-powered ATS platform for recruiters**
 - Resume & JD skill extraction using LLMs
 - Semantic matching and automated fitment scoring
-- Bias reduction through AI-based ranking
-- Real-time recruiter dashboard
+- Bias reduction via AI-driven ranking
+- Recruiter-ready dashboards with insights
 
 **Tech:** React, Node.js, Express, MongoDB, Gemini API  
 🔗 https://hireai-companypage.onrender.com/
@@ -60,19 +60,19 @@ I enjoy transforming complex ideas into **practical, high-impact software produc
 
 ### 📄 Pro PDF Toolkit
 **Full-stack document utility platform**
-- PDF merge, split, compression
-- HTML to PDF conversion
+- PDF merge, split, and compression
+- HTML-to-PDF conversion
 - Image optimization using Sharp
-- Modular REST APIs with async file handling
+- Modular REST APIs with async processing
 
-**Tech:** Next.js, Express.js, pdf-lib, Puppeteer, Tailwind  
+**Tech:** Next.js, Express.js, pdf-lib, Puppeteer, Tailwind CSS  
 🔗 Project available on GitHub
 
 ---
 
 ### 💼 HireAI
-**Smart recruitment platform**
-- AI-driven job matching
+**AI-powered recruitment platform**
+- Intelligent job matching
 - Resume builder & mock interviews
 - Recruiter dashboards and analytics
 
@@ -85,7 +85,7 @@ I enjoy transforming complex ideas into **practical, high-impact software produc
 **Real-time logo creation tool**
 - Live preview
 - Modern UI with Tailwind & shadcn/ui
-- Optimized component architecture
+- Optimized, reusable component architecture
 
 🔗 https://github.com/samarthzamre/LogoForge
 
@@ -93,9 +93,9 @@ I enjoy transforming complex ideas into **practical, high-impact software produc
 
 ### 💪 Gym Fitness Landing Page
 **Responsive marketing website**
-- Clean layout
+- Clean UI
 - Mobile-first design
-- Fast loading UI
+- Optimized performance
 
 🔗 https://github.com/samarthzamre/gym-fitness-landing-page
 
@@ -165,4 +165,4 @@ I enjoy transforming complex ideas into **practical, high-impact software produc
 
 ---
 
-> *"I don’t just write code — I build scalable systems that solve real problems."*
+> *"I build scalable systems that solve real-world problems, not just projects."*
