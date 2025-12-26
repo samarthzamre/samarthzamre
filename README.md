@@ -37,7 +37,6 @@ I focus on writing **maintainable, scalable, and impact-driven software**.
 ## 🚀 Current Focus
 
 - 🔭 Building AI-first web platforms (Resume parsing, job matching, document automation)
-- 🤖 Working with **LLMs, semantic search, and AI-assisted workflows**
 - 🧩 Architecting scalable frontend systems using **Next.js App Router**
 - ⚙️ Improving backend performance, API reliability, and data modeling
 - 📚 Strengthening system design and real-world engineering skills
