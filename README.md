@@ -122,11 +122,13 @@ I focus on writing **maintainable, scalable, and impact-driven software**.
 - MySQL
 
 ### ⚙️ Tools & Platforms
+- Cursor IDE
 - Git & GitHub
 - VS Code
 - IntelliJ IDEA
 - Netlify
 - Render
+  
 
 ---
 
