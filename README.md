@@ -65,7 +65,6 @@ I focus on writing **maintainable, scalable, and impact-driven software**.
 - Modular REST APIs with async processing
 
 **Tech:** Next.js, Express.js, pdf-lib, Puppeteer, Tailwind CSS  
-🔗 Project available on GitHub
 
 ---
 
@@ -86,8 +85,6 @@ I focus on writing **maintainable, scalable, and impact-driven software**.
 - Modern UI with Tailwind & shadcn/ui
 - Optimized, reusable component architecture
 
-🔗 https://github.com/samarthzamre/LogoForge
-
 ---
 
 ### 💪 Gym Fitness Landing Page
@@ -96,7 +93,6 @@ I focus on writing **maintainable, scalable, and impact-driven software**.
 - Mobile-first design
 - Optimized performance
 
-🔗 https://github.com/samarthzamre/gym-fitness-landing-page
 
 ---
 
@@ -129,7 +125,6 @@ I focus on writing **maintainable, scalable, and impact-driven software**.
 - Netlify
 - Render
   
-
 ---
 
 ## 🏆 Achievements
@@ -140,21 +135,6 @@ I focus on writing **maintainable, scalable, and impact-driven software**.
 - 📄 **Published Research Paper – IRJAEH**
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthzamre&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthzamre&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthzamre&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarthzamre&theme=radical"/>
-</p>
 
 ---
 
